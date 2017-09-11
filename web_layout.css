@@ -1,0 +1,22 @@
+#map {
+    width: 500px;
+    height: 400px;
+    border: 1px solid green;
+    float: left;
+    margin: 5px;
+}
+#piechart {
+    width: 500px;
+    height: 400px;
+    border: 1px solid red;
+    margin: 5px;
+    float: left;
+}
+
+#data_table {   
+    clear: both;
+    width:100%;
+    table-layout: fixed;    
+}
+
+
